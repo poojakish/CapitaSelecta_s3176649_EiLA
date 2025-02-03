@@ -15,7 +15,7 @@ The other two files are used to Analyse the data and to create data based on the
 
 ## Testing FER models on EiLA dataset
 
-The code for each type of model should be downloaded from the respective repository. The files for the specific models whose results are included in the paper is available in `models_used` folder. You can use these models and test the performance on the EiLA dataset. 
+The code for each type of model should be downloaded from the respective repository. The files for the specific models whose results are included in the paper is available in `models_used` folder, [link](https://drive.google.com/file/d/1KuhzvNb8umhLsEPi4qHdQCJHIKV_VTVK/view?usp=sharing). You can use these models and test the performance on the EiLA dataset. 
 The code for the models can be found below:
 - Multi-Task Efficientnet model: [link](https://github.com/av-savchenko/face-emotion-recognition)
 - Poster++ model: [link](https://github.com/talented-q/poster_v2)
